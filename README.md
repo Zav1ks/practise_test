@@ -5,6 +5,6 @@ UI test python selenium
 This is a practise test, where we test logging to our site with Python and Selenium
 
 for run test use
-...
+***
 python Test_site.py
-...
+***
