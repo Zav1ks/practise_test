@@ -8,6 +8,7 @@ It is a login test with valid test data.
 ## Test food portal
 
 We use Python 3.9 and Selenium 
+
 Run test with command 
 ```
 python Test_site.py
