@@ -1,7 +1,7 @@
 [![Run Selenium On GitHub Action](https://github.com/Zav1ks/practise_test/actions/workflows/Selenium-Action_Template.yaml/badge.svg)](https://github.com/Zav1ks/practise_test/actions/workflows/Selenium-Action_Template.yaml)
 
 # Practise test
-This test is a practise of UI test python selenium usage.
+This test is a practise of python selenium usage.
 
 It is a login test with valid test data.
 
