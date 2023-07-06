@@ -1,10 +1,14 @@
 [![Run Selenium On GitHub Action](https://github.com/Zav1ks/practise_test/actions/workflows/Selenium-Action_Template.yaml/badge.svg)](https://github.com/Zav1ks/practise_test/actions/workflows/Selenium-Action_Template.yaml)
-# practise_test
-UI test python selenium
 
-This is a practise test, where we test logging to our site with Python and Selenium
+# Practise test
+This test is a practise of UI test python selenium usage.
 
-for run test use
+It is a login test with valid test data.
+
+## Test food portal
+
+We use Python 3.9 and Selenium 
+Run test with command 
 ```
 python Test_site.py
 ```
